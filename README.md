@@ -1,5 +1,4 @@
-# Netflix-Analysis-Dashboard
-# Netflix Titles Analysis with Tableau
+# Netflix Analysis with Tableau
 
 ## Overview
 
